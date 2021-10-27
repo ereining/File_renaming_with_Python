@@ -6,7 +6,7 @@ You can download a .exe which automaticly renames your files, so that the prefix
 <h2>How do you use it?</h2>
 It is really simple. In the 'ignoredFileTypes.ini' file you have to change the directory you want to get observed.
 Optionally you can add fileendings which should not get their name changed.
-After this you just have to start 'FileRename.exe'#
+After this you just have to start 'FileRenamer.exe'#
 The Programm works recursive which means that subdiretories are also affected.
   
 <h2>DISCLAIMER</h2>
